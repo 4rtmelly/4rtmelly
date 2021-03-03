@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 ## :school_satchel: Languages & Tools :
 
 [](url)
-![icontransparent](https://user-images.githubusercontent.com/60700094/109814329-abf17500-7c2e-11eb-8d93-e9c6e998bba1.png)
-![ccode](https://user-images.githubusercontent.com/60700094/109816229-c9bfd980-7c30-11eb-9d58-4081540c8e4a.png)
+[
+![iconjs](https://user-images.githubusercontent.com/60700094/109816600-36d36f00-7c31-11eb-8b0e-8f1289791a30.png)
+
+![php](https://user-images.githubusercontent.com/60700094/109816621-3dfa7d00-7c31-11eb-9714-62df73b9d3fe.png)
+![phpmy](https://user-images.githubusercontent.com/60700094/109816639-405cd700-7c31-11eb-9acd-8a1923e4491e.png)
+![python](https://user-images.githubusercontent.com/60700094/109816649-4357c780-7c31-11eb-987a-4fc1e828746d.png)
+![vscode](https://user-images.githubusercontent.com/60700094/109816656-45ba2180-7c31-11eb-8683-5b14ea84eb6f.png)
+![latex](https://user-images.githubusercontent.com/60700094/109816612-3a66f600-7c31-11eb-85b9-7b054f6d667d.png)
 
 
-![latex](https://user-images.githubusercontent.com/60700094/109815396-e14a9280-7c2f-11eb-8d25-f11b6c532c38.png)
-![php](https://user-images.githubusercontent.com/60700094/109815406-e3acec80-7c2f-11eb-97c0-655596b4ad14.png)
-![phpmy](https://user-images.githubusercontent.com/60700094/109815418-e7d90a00-7c2f-11eb-93fc-1285d36e4453.png)
-![python](https://user-images.githubusercontent.com/60700094/109815431-ead3fa80-7c2f-11eb-826a-01f9c5415923.png)
-![vscode](https://user-images.githubusercontent.com/60700094/109815449-ee678180-7c2f-11eb-8feb-7b430c75ee03.png)
+](![ccode](https://user-images.githubusercontent.com/60700094/109816586-33d87e80-7c31-11eb-83f0-14f555f7f830.png))
+
