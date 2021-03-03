@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :mailbox: Contact me via :
-<p align=center">
-<a href="https://www.linkedin.com/in/am%C3%A9lie-nguyen-80b849182/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:ngy.amelie@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 ## :school_satchel: Languages & Tools :
 [](url)
 ![icontransparent](https://user-images.githubusercontent.com/60700094/109814329-abf17500-7c2e-11eb-8d93-e9c6e998bba1.png)
