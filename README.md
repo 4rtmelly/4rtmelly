@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 ## :school_satchel: Languages & Tools :
-<img src="./Images/iconjs.png">
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
