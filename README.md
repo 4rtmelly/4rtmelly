@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 ## :school_satchel: Languages & Tools :
-[
-![iconjs](https://user-images.githubusercontent.com/60700094/109814220-89f7f280-7c2e-11eb-8f0b-e9993c9787e7.png)
-](url)
+[](url)
+![icontransparent](https://user-images.githubusercontent.com/60700094/109814329-abf17500-7c2e-11eb-8d93-e9c6e998bba1.png)
